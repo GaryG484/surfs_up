@@ -1,4 +1,4 @@
-# surfs_up
+# Surfs Up!
 ## Overview
 ### A summary of the Surfs Up Project:
 
@@ -12,10 +12,12 @@
 * Junes mean temperature was ~~75 degrees Fahrenheit.
 * The minimum temperature for June was 64 degrees Fahrenheit. 
 * The maximum temperature for June was 85 degrees Fahrenheit.
+ 
 ![Alttext]( https://github.com/GaryG484/surfs_up/blob/main/resources/June_summary_statistics.PNG)
 * Decembers mean temperature was ~~71 degrees Fahrenheit.
 * The minimum temperature for December was 56 degrees Fahrenheit.
 * The maximum temperature for December was 83 degrees Fahrenheit.
+ 
 ![Alttext]( https://github.com/GaryG484/surfs_up/blob/main/resources/December_summary_statistics.PNG)
 
 
